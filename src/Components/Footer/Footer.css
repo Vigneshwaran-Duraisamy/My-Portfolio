@@ -1,0 +1,29 @@
+.Section_Footer{
+    width: 100%;
+    height: 180px;
+    background-color: #222222;
+}
+.footer_content{
+    text-align: center;
+    color: white;
+    font-size: 18px;
+}
+.footer_SocialMedia{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+.footer_SocialMedia{
+}
+.footer_SocialMedia a{
+   color: #BAC964;
+   padding: 15px;
+   border-radius: 49%;
+   background-color: #404040;
+}
+
+.footer_SocialMedia a:hover{
+    color: black;
+    background-color: #BAC964;
+    transition: 0.6s;
+ }
